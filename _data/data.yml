@@ -69,99 +69,73 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Computer Science
+        university: World Univerisity Of Bangladesh
+        time: 2016 - 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          -
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Founder
+        time: 2012 - Present
+        company: BU Tech Dev
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          There are 8 employees on my direction. We serve gaming & web server to clients. We have great communication with clients be like a good relation. We try serve the best services to clients.
+          It's not only a brand but also a community. We try share what we know to inspire to all.
+      - role: IT Manager
+        time: 2016 - Present
+        company: Heritage School
+        details: |
+          Duties/Responsibilities:
+            - Working within a TCP/IP network environment, including DHCP, DNS and Ethernet.
+            - Solving Windows Server 2008 R2 and Windows Server 2016 related problems.
+            - Solving Microsoft Exchange Server 2016 related problems.
+            - Maintaining MikroTik Devices.
+            - Managing data of attendance system (Finger print machine) to database server.
+            - Purchasing of IT Equipment and software in line within agreed budgets.
+            - Deploying new hardware & evaluating new software & security
+            - Developing School Management System (Web Application).
+            - Developing School Android Apps for Students and Teachers (https://goo.gl/kdoIro)
+            
+            School Management System:
+            - http://heritagebd.net
+            - http://admin.heritagebd.net
+            - http://edu.heritagebd.net
+            - http://doc.heritagebd.net
+            - https://ipo-bangladesh.org
+            - https://ls-bd.org
+      - role: Shopify Developer
+        time: 2022 - 2023
+        company: Cepta Tech
+        details: |
+          Theme Developing with advanced custom elements and script.
+          Daily & Weekly activities Reporting through asana.
+          Attend daily & weekly team meetings using the slack app.
+          Advanced Shopify Schema theme development to give clients more flexibility for customization.
+          Custom API integration and app development.
+          Multiple payment method integration.
+          Abandon Card, Abandon Checkout & Email Campaign Automation.
+          Facebook & IG Shop setup and basic marketing.
+          Facebook pixel setup for an e-commerce site.
+          Q&A testing through BrowserStack.
+      - role: Software Developer
+        time: 2019 - 2022
+        company: Rupashi Group Of Industries
+        details: |
+          Duties/Responsibilities:
+          - Managing data of attendance system (Fingerprint machine) to database server.
+          - Communicating with third-party technical specialists.
+          - Supporting a multi-site IT infrastructure of at least 100 employees.
+          - Deploying hardware & evaluating software & security
+          - Web development.
+          - Developing ERP (Web Application)
+      - role: IT Officer
         time: 2014 - 2015
-        company: Google, London
+        company: Govt. Hazi Ibrahim Alamchan Model School and CollegeGovt
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          To achieve a challenging career in a dynamic organization, where the opportunity to utilize my knowledge will attain professional career development.
 
 projects:
     title: Projects
@@ -232,26 +206,27 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: PHP, Laravel & MySQL
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: VueJS, AngularJS, Quasar Framework
+        level: 90%
+
+      - name: Shopify Theme & App Development
         level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+        
+      - name: C#
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 80%
+
+      - name: Java
+        level: 75%
+
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    For More Info Visit <i class="fas fa-heart"></i> by <a href="https://butechdev.com" target="_blank" rel="nofollow">BU Tech Dev</a>
